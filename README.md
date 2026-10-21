@@ -13,3 +13,11 @@ For Qwen: Its a mixture of Deepseek and Claude depanding on the model, in exampl
 if you insert the prompt in the user preferences / customization , you need to find the part where it says instructions and put it there and on every model with that persona no matter if thinking is enabled or the effort level. Same thing can be done on deepseek but i have not tested it since i dont use deepseek that much.
 
 **4.txt** not made by me, but very usefull for roleplay, fiction, writing or general purposes / general writing i.e blogs, books, comic, idfk whatever you freaks are doing , for other purposesses use **GRIGORE BAROS BAROS GRIGORE.md**
+
+**deepseek** targeted to older deepseek models, intrusct, or non thinking
+
+**deepseek-pro** targeted to deepseek 4.1 pro / flash 
+
+**gpt-claude-test** in testing for newer claude models and better performing 6.1 sol and astra
+
+**1.md** older universal
