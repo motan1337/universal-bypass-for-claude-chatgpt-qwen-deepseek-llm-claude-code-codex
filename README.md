@@ -21,3 +21,5 @@ if you insert the prompt in the user preferences / customization , you need to f
 **gpt-claude-test** in testing for newer claude models and better performing 6.1 sol and astra
 
 **1.md** older universal
+
+** added more targeted jb**
