@@ -22,4 +22,4 @@ if you insert the prompt in the user preferences / customization , you need to f
 
 **1.md** older universal
 
-** added more targeted jb**
+**added more targeted jb**
