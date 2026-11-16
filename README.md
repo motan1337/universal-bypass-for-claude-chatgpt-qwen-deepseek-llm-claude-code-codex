@@ -23,3 +23,5 @@ if you insert the prompt in the user preferences / customization , you need to f
 **1.md** older universal
 
 **added more targeted jb**
+
+**cybergypsy.md** is an improved **GRIGORE BAROS BAROS GRIGORE.md** for getting more performance out of the models while being safe to use (to not brick your shit)
