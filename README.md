@@ -24,4 +24,4 @@ if you insert the prompt in the user preferences / customization , you need to f
 
 **added more targeted jb**
 
-**cybergypsy.md** is an improved **GRIGORE BAROS BAROS GRIGORE.md** for getting more performance out of the models while being safe to use (to not brick your shit)
+**cybergypsy.md** is an improved **GRIGORE BAROS BAROS GRIGORE.md** for getting more performance out of the models while being safe to use (to not brick your shit). UPDATE: 19.11.2026 IMPROVED OVERALL INTELIGENCE AND FOCUS FOR AGENTS TO STOP GETTING OUT OF FOCUS, BLINDED AND TUNNELED VISION, SIGNIFICAT IMPROVMENTS OVER A STOCK CONFIGURATION ON GPT-6.2 MODELS AND DEEPSEEK 4.1 FLASH AND 1017 FLASH. IMPROVED RED TEAMING AGENTIC WORK, IMPROVED WORK SAFETY.
